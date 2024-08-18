@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Templo flotante","order":1,"parentId":0,"scrollX":719,"scrollY":964},
+{"id":2,"expanded":true,"name":"Ciénaga","order":5,"parentId":1,"scrollX":832,"scrollY":1136},
+{"id":3,"expanded":true,"name":"ef","order":6,"parentId":2,"scrollX":910,"scrollY":543},
+{"id":4,"expanded":true,"name":"Volcán","order":2,"parentId":1,"scrollX":1513,"scrollY":1400},
+{"id":5,"expanded":false,"name":"MAP005","order":3,"parentId":4,"scrollX":531,"scrollY":317},
+{"id":6,"expanded":true,"name":"MAP006","order":4,"parentId":4,"scrollX":531,"scrollY":317}
+]
